@@ -1,5 +1,5 @@
 try {
-    $repos = @("Joint-Main", "Joint")
+    $repos = @("Joint-Main", "Joint", "Joint.Auth")
 
     $toRemoveFromLocation = "\\Scripts"
     $currentLocation = Get-Location

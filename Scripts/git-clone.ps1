@@ -1,4 +1,4 @@
-$repos = @("Joint")
+$repos = @("Joint", "Joint.Auth")
 
 $toRemoveFromLocation = "\\Joint-Main\\Scripts"
 $currentLocation = Get-Location
