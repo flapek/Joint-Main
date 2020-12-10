@@ -23,3 +23,4 @@ Quite opposite, **it’s mostly the set of extensions methods along with additio
 - [Joint.Exception](https://github.com/flapek/Joint.Exception)
 - [Joint.Logging](https://github.com/flapek/Joint.Logging)
 - [Joint.WebApi](https://github.com/flapek/Joint.WebApi)
+- [Joint.Ocelot](https://github.com/flapek/Joint.Ocelot)
